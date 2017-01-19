@@ -24,11 +24,7 @@ facebook_username: jonathanpshea
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
 theme: minima
-=======
-theme: minima
->>>>>>> origin/master
 gems:
   - jekyll-feed
 exclude:
