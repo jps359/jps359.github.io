@@ -27,7 +27,7 @@ facebook_username: jonathanpshea
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 gems:
   - jekyll-feed
 exclude:
